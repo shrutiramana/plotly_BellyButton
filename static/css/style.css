@@ -1,0 +1,19 @@
+
+.jumbotron {
+    background-image: url("../images/bacteria.png");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+  }
+
+#bar{
+  text-align: left;
+}
+
+ #bubble{
+   text-align: center;
+ }
+
+ #gauge{
+  text-align: left;
+}
