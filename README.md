@@ -1,4 +1,8 @@
-# plotly_BellyButton
+# plotly_BellyButton 
+
+deployed website -
+
+https://shrutiramana.github.io/plotly_BellyButton/
 
 ### Overview of Project
 
